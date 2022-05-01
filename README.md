@@ -18,7 +18,7 @@ in oder to above code the,
       public class testing_java {
 
 for create a java class for testing_java 
-<br><b>important</b> -- class name should be file name. otherwise code became with error
+<br><b>important</b> -- class name should be file name. otherwise code become with error
 <br><br>
 
       public static void main(String[] args) {
