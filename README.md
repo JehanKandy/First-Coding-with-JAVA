@@ -23,4 +23,5 @@ for create a java class for testing_java
 
       public static void main(String[] args) {
           
-          
+this is the main part of the java code <br>
+and also main() method in this code
