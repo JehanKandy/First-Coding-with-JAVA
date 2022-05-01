@@ -21,6 +21,6 @@ for create a java class for testing_java
 <br><b>important</b> -- class name should be file name. otherwise code became with error
 <br><br>
 
-          public static void main(String[] args) {
+      public static void main(String[] args) {
           
           
