@@ -25,3 +25,19 @@ for create a java class for testing_java
           
 this is the main part of the java code <br>
 and also main() method in this code
+<br><br>
+
+in oder to this program, <br>
+the is 
+       
+       System.out.println("Testing Java....!");
+       
+is it use for print something on java code
+
+
+
+*****************************************************
+
+
+
+DEVELOPER  :  JEHANKANDY
